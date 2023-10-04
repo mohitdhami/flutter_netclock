@@ -6,11 +6,11 @@
 
 ### **Key Features**
 
-1.  **Stopwatch:** TimeMaster's stopwatch functionality allows you to accurately measure elapsed time for various activities. Whether you're timing your workout, cooking, or conducting experiments, you can start, pause, and reset with ease. The split time feature enables you to record intermediate times effortlessly.
+1.  **Stopwatch:** NetClock's stopwatch functionality allows you to accurately measure elapsed time for various activities. Whether you're timing your workout, cooking, or conducting experiments, you can start, pause, and reset with ease. The split time feature enables you to record intermediate times effortlessly.
     
 2.  **Timer:** Need a countdown for your tasks or reminders? TimeMaster's timer function lets you set customizable countdowns with precision. Whether it's a 5-minute break, a 30-minute work session, or a reminder to check on your baking, you can configure it to suit your needs.
     
-3.  **Local Time:** TimeMaster automatically detects your device's IP address and provides you with the current local time, ensuring you're always in sync with your surroundings. No need to manually set your time zone; TimeMaster does it for you, making it perfect for travelers and those who work across different time zones.
+3.  **Local Time:** NetClock automatically detects your device's IP address and provides you with the current local time, ensuring you're always in sync with your surroundings. No need to manually set your time zone; TimeMaster does it for you, making it perfect for travelers and those who work across different time zones.
 
 
 ### **Tech Stack**
